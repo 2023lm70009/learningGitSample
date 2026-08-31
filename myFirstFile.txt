@@ -1,1 +1,2 @@
-Hello welcome to new course
+Hello welcome to new course..
+Git and GitHUB
